@@ -1,18 +1,8 @@
-<h2 align="left">Hello World👋! Welcome to my profile.</h2>
-- 🔭 I’m currently a 3rd year student at VIT Vellore </br>
+<h2 align="left">Hey there! I'm Jeff. Nice to meet you!</h2>
+- 🔭 Currently a 3rd year student at VIT Vellore </br>
 - 🌱 Learning ML and IoT </br>
-- 👯 I code for fun </br>
+- ⚡ Open to collaborate on high impact projects! </br>
 - 📫 How to reach me: jeffrywinson@gmail.com </br>
-- ⚡ Other things I'm into: Sports, Gaming, Music and Movies </br>
-</br>
-</br>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeffrywinson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=jeffrywinson&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffrywinson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-</div>
-</br>
 </br>
 
 ###
@@ -81,7 +71,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/jeffrywinson/jeffrywinson/output/snake.svg" alt="Snake animation" />
 
 ###
