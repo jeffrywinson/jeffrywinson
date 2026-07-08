@@ -1,5 +1,5 @@
 <h2 align="left">Hey there! I'm Jeff. Nice to meet you!</h2>
-- 🔭 Currently a 3rd year student at VIT Vellore </br>
+- 🔭 Currently a 4th year student at VIT Vellore </br>
 - 🌱 Learning ML and IoT </br>
 - ⚡ Open to collaborate on high impact projects! </br>
 - 📫 How to reach me: jeffrywinson@gmail.com </br>
